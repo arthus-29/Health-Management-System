@@ -1,0 +1,125 @@
+Heart Rate: 73
+Blood Pressure Systolic: 107
+Blood Pressure diastolic: 67
+Body Temprature: 97.1339
+=================================================
+Heart Rate: 84
+Blood Pressure Systolic: 119
+Blood Pressure diastolic: 62
+Body Temprature: 98.6333
+=================================================
+Heart Rate: 85
+Blood Pressure Systolic: 97
+Blood Pressure diastolic: 64
+Body Temprature: 97.7265
+=================================================
+Heart Rate: 89
+Blood Pressure Systolic: 99
+Blood Pressure diastolic: 78
+Body Temprature: 97.05
+=================================================
+Heart Rate: 81
+Blood Pressure Systolic: 97
+Blood Pressure diastolic: 64
+Body Temprature: 98.1219
+=================================================
+Heart Rate: 78
+Blood Pressure Systolic: 100
+Blood Pressure diastolic: 62
+Body Temprature: 97.2877
+=================================================
+Heart Rate: 73
+Blood Pressure Systolic: 118
+Blood Pressure diastolic: 77
+Body Temprature: 97.0117
+=================================================
+Heart Rate: 93
+Blood Pressure Systolic: 96
+Blood Pressure diastolic: 75
+Body Temprature: 97.824
+=================================================
+Heart Rate: 86
+Blood Pressure Systolic: 107
+Blood Pressure diastolic: 66
+Body Temprature: 97.6043
+=================================================
+Heart Rate: 70
+Blood Pressure Systolic: 112
+Blood Pressure diastolic: 73
+Body Temprature: 97.6895
+=================================================
+Heart Rate: 79
+Blood Pressure Systolic: 92
+Blood Pressure diastolic: 77
+Body Temprature: 98.9666
+=================================================
+Heart Rate: 60
+Blood Pressure Systolic: 100
+Blood Pressure diastolic: 71
+Body Temprature: 97.9291
+=================================================
+Heart Rate: 75
+Blood Pressure Systolic: 98
+Blood Pressure diastolic: 69
+Body Temprature: 97.3538
+=================================================
+Heart Rate: 90
+Blood Pressure Systolic: 117
+Blood Pressure diastolic: 62
+Body Temprature: 98.2859
+=================================================
+Heart Rate: 93
+Blood Pressure Systolic: 114
+Blood Pressure diastolic: 65
+Body Temprature: 98.2924
+=================================================
+Heart Rate: 94
+Blood Pressure Systolic: 96
+Blood Pressure diastolic: 71
+Body Temprature: 97.8514
+=================================================
+Heart Rate: 88
+Blood Pressure Systolic: 93
+Blood Pressure diastolic: 75
+Body Temprature: 97.4066
+=================================================
+Heart Rate: 63
+Blood Pressure Systolic: 103
+Blood Pressure diastolic: 63
+Body Temprature: 97.3958
+=================================================
+Heart Rate: 79
+Blood Pressure Systolic: 104
+Blood Pressure diastolic: 69
+Body Temprature: 98.7035
+=================================================
+Heart Rate: 91
+Blood Pressure Systolic: 117
+Blood Pressure diastolic: 76
+Body Temprature: 98.2028
+=================================================
+Heart Rate: 91
+Blood Pressure Systolic: 116
+Blood Pressure diastolic: 69
+Body Temprature: 98.1308
+=================================================
+Heart Rate: 73
+Blood Pressure Systolic: 92
+Blood Pressure diastolic: 63
+Body Temprature: 98.7605
+=================================================
+Heart Rate: 78
+Blood Pressure Systolic: 106
+Blood Pressure diastolic: 72
+Body Temprature: 97.2863
+=================================================
+Heart Rate: 87
+Blood Pressure Systolic: 107
+Blood Pressure diastolic: 69
+Body Temprature: 97.8096
+=================================================
+Heart Rate: 63
+Blood Pressure Systolic: 103
+Blood Pressure diastolic: 79
+Body Temprature: 97.5738
+=================================================
