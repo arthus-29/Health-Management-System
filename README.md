@@ -19,4 +19,13 @@ Based on the provided information and screenshots, the Health Management System 
 - Billing and Insurance: Handle billing and insurance claims.
 - Reporting and Analytics: Generate reports and analyze healthcare data for insights.
 
+![Screenshot 2024-02-26 230321](https://github.com/user-attachments/assets/bf5027cd-c1f9-4628-a6d5-3cf9049281e6)
+![Screenshot 2024-02-26 230332](https://github.com/user-attachments/assets/f8a0069d-cb0d-48f1-a840-a06ec3873e3b)
+![Screenshot 2024-02-26 230630](https://github.com/user-attachments/assets/25dabe85-b1cd-40fb-89e8-e2cca490f66c)
+
+
+
+
+
+
 
